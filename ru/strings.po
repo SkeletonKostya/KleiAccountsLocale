@@ -843,7 +843,7 @@ msgstr "Дропы и награды (Бета)"
 
 #. i18n: keyword: RewardDescription
 msgid "Keep up to date and earn in-game rewards. We'll be adding new rewards from time to time, so check back often to see what's new! Use points to redeem items listed in the page below. Spools are useful inside the games."
-msgstr ""
+msgstr "Следите за новостями и зарабатывайте внутриигровые награды. Периодически мы будем добавлять новые награды, поэтому проверяйте почаще, чтобы узнать, что нового! Используйте очки, чтобы выкупасть предметы, перечисленные на странице ниже. Катушки используються в играх."
 
 #. i18n: keyword: RewardLabel
 msgid "Reward"
@@ -879,7 +879,7 @@ msgstr ""
 
 #. i18n: keyword: RewardSpoolsAbbreviation
 msgid "spools"
-msgstr ""
+msgstr "катушки"
 
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
@@ -903,11 +903,11 @@ msgstr "Смотрите «Не голодайте вместе» на Bilibili"
 
 #. i18n: keyword: RewardNameYoutube
 msgid "Follow us on YouTube"
-msgstr "Следуйте за нами на YouTube"
+msgstr "Подпишитесь на нас в YouTube"
 
 #. i18n: keyword: RewardNameTwitter
 msgid "Follow us on Twitter"
-msgstr "Следуйте за нами на Twitter"
+msgstr "Следите за нами на Twitter"
 
 #. i18n: keyword: RewardNameFacebook
 msgid "Follow us on Facebook"
@@ -915,7 +915,7 @@ msgstr "Следите за нами на Фейсбуке"
 
 #. i18n: keyword: RewardNameWechat
 msgid "Follow us on WeChat"
-msgstr "Следуйте за нами на WeChat"
+msgstr "Следите за нами на WeChat"
 
 #. i18n: keyword: RewardNameInstagram
 msgid "Follow us on Instagram"
@@ -955,11 +955,11 @@ msgstr "Стоимость предмета"
 
 #. i18n: keyword: RewardItemReedem
 msgid "Redeem"
-msgstr "Выкупать"
+msgstr "Выкупить"
 
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
-msgstr ""
+msgstr "Ссылка на награду"
 
 #. i18n: keyword: RewardLinkResultDescription
 msgid "Congratulations!</p><p>You have found a valid reward link in the wild."
@@ -967,27 +967,27 @@ msgstr ""
 
 #. i18n: keyword: RewardLinkResultMessagePoints
 msgid "You have claimed {{.Amount}} {{.Name}}."
-msgstr ""
+msgstr "Вы заявили {{.Amount}} {{.Name}}."
 
 #. i18n: keyword: RewardLinkResultMessageSpool
 msgid "You have claimed {{.Amount}} {{.Name}}. You will now find it in game next time you play."
-msgstr ""
+msgstr "Вы заявили {{.Amount}} {{.Name}}. Теперь вы получите его в игре в следующий раз, когда будете играть."
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Woah! It looks like you already clicked this link before. You can only redeem this reward once."
-msgstr ""
+msgstr "Ого! Похоже, вы уже переходили по этой ссылке раньше. Вы можете получить эту награду только один раз "
 
 #. i18n: keyword: GiftRedemptionTitle
 msgid "Gift Redemption"
-msgstr ""
+msgstr "Выкупание подарка"
 
 #. i18n: keyword: GiftRedemptionDescription
 msgid "Hello! It looks like you got an item key or gift code, would you like to redeem it now? Type in the code in the form below and we will grant you the item faster than you can blink <em>&mdash;unless you can blink very fast, in which case you should close your eyes for a few milliseconds&mdash;</em>"
-msgstr ""
+msgstr "Здравствуйте! Похоже, у вас есть ключ от предмета или подарочный код. Вы хотите использовать его сейчас? Введите код в форму ниже, и мы предоставим вам товар быстрее, чем вы моргнете <em>&mdash;если вы не можете очень быстро моргать, в этом случае вам следует закрыть глаза на несколько миллисекунд&mdash;</em>"
 
 #. i18n: keyword: GiftRedemptionCodeLabel
 msgid "Enter Your Code"
-msgstr ""
+msgstr "Введите ваш код"
 
 #. i18n: keyword: GiftRedemptionSubmitButton
 msgid "Redeem Code"
@@ -999,19 +999,19 @@ msgstr ""
 
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
-msgstr ""
+msgstr "Нажмите здесь, чтобы получить еще один подарок"
 
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."
-msgstr ""
+msgstr "Ключ или подарочный код недействителен."
 
 #. i18n: keyword: E_ALREADY_USED
 msgid "Item key or gift code has already been used."
-msgstr ""
+msgstr "Ключ от предмета или подарочный код уже использовался."
 
 #. i18n: keyword: E_INVALID_PLATFORM
 msgid "The token used to redeem the gift code does not support the gaming platform you selected."
-msgstr ""
+msgstr "Токен, используемый для погашения подарочного кода, не поддерживает выбранную вами игровую платформу."
 
 #. i18n: keyword: E_INVALID_TOKENTYPE
 msgid "The token used to redeem the gift code has a different purpose."
@@ -1051,43 +1051,43 @@ msgstr ""
 
 #. i18n: keyword: SupportTitle
 msgid "Submit a Support Request"
-msgstr ""
+msgstr "Отправить запрос техподдержке"
 
 #. i18n: keyword: SupportDescription
 msgid "Please enter the details of your request. A member of our support staff will respond as soon as possible."
-msgstr ""
+msgstr "Пожалуйста, введите детали вашего запроса. Сотрудник нашей службы поддержки ответит вам в ближайшее время."
 
 #. i18n: keyword: SupportSuccess
 msgid "Your support request was successfully recorded. A member of our support staff will respond as soon as possible. Thank you for your patience."
-msgstr "Your support request was successfully recorded. One of the members of our staff will reply to you soon. Thank you for your patience."
+msgstr "Ваш запрос поддержки был успешно записан. Сотрудник нашей службы поддержки ответит вам в ближайшее время. Спасибо за ваше терпение."
 
 #. i18n: keyword: SupportName
 msgid "Name"
-msgstr ""
+msgstr "Имя"
 
 #. i18n: keyword: SupportGame
 msgid "Game"
-msgstr ""
+msgstr "Игра"
 
 #. i18n: keyword: SupportCategory
 msgid "Category"
-msgstr ""
+msgstr "Категория"
 
 #. i18n: keyword: SupportAttachments
 msgid "Attachments"
-msgstr ""
+msgstr "Вложения"
 
 #. i18n: keyword: SupportDetails
 msgid "Details"
-msgstr ""
+msgstr "Подробности"
 
 #. i18n: keyword: SupportSubmit
 msgid "Submit"
-msgstr ""
+msgstr "Отправить"
 
 #. i18n: keyword: E_ZENDESK_AUTH_PROBLEMS
 msgid "Could not authenticate you. Check your email address or register."
-msgstr ""
+msgstr "Не могу распознать вас. Проверьте свой адрес электронной почты или зарегистрируйтесь."
 
 #. i18n: keyword: E_ZENDESK_EMAIL_IS_MISSING
 msgid "Please <a href='/account/settings'>associate a valid email address to your account</a>. Otherwise, we will not be able to reply to your support request."
